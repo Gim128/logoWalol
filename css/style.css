@@ -1,5 +1,5 @@
 :root {
-    --color-text: navy;
+    --color-text: rgb(3, 3, 82);
     --color-bg: papayawhip;
     --color-bg-accent: #ecdcc0;
     --size: clamp(10rem, 1rem + 40vmin, 30rem);
